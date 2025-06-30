@@ -296,6 +296,6 @@ alternative pathways for those who know where to look.
 
 If you have any questions, please contact me:
 
-Discord: ftrace
+Discord: kprobe
 Twitter: @MatheuzSecurity
 Rootkit Researchers: https://discord.gg/66N5ZQppU7
